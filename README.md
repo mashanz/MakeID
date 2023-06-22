@@ -5,7 +5,7 @@ MakeIt adalah repository data para Indiehacker/Indiemaker Indonesia yang kegiata
 - WNI
 - Sudah Terdaftar PT Perorangan
 - Memiliki landing page
-- Memiliki lontak/sosmed yang mudah dihubungi
+- Memiliki kontak/sosmed yang mudah dihubungi
 
 ### Legend:
 - ✅ Active
