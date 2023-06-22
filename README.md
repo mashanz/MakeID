@@ -1,9 +1,15 @@
-# Makeit
-MakeIt adalah repository kumpulan data dari para Indiehacker/Indiemaker Indonesia
+# MakeIt
+MakeIt adalah repository data para Indiehacker/Indiemaker Indonesia yang kegiatan usahanya sudah memiliki legalitas.
 
->Legend:<br/>
-✅ Active<br/>
-⏸️ Inactive
+## Syarat dan Ketentuan Indiehacker / Indiemaker Indonesia
+- WNI
+- Sudah Terdaftar PT Perorangan
+- Memiliki landing page
+- Memiliki lontak/sosmed yang mudah dihubungi
+
+### Legend:
+- ✅ Active
+- ⏸️ Inactive
 
 | Creator | Product | Description | Legality | Established | Status |
 | :-: | :-: | :-: | :-: | :-: | :-: |
