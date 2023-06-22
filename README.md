@@ -15,3 +15,5 @@ MakeIt adalah repository data para Indiehacker/Indiemaker Indonesia yang kegiata
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [Hanjara (Hanz)](https://s.id/mashanz) | [STEM Ecosystem](https://mashanz.com) | Our mission is to raise STEM influence in Pandeglang | [PTP](https://ptp.ahu.go.id/profil/cari?q=Mashanz+Sumber+Terbuka&page=1&limit=10) | 2020 | ✅ |
 | [M GIlang Januar](https://twitter.com/mgilangjanuar) | [Automix](https://automix.ai) | One-stop automation solutions with AI enhancement | [PTP](https://ptp.ahu.go.id/profil/cari?q=appledore&page=1&limit=10) | 2023 | ✅ |
+
+><strong>Note:</strong><br>Kamu indiemaker dan serius menbangun karya? Buat PR (Pull Request) agar karya mu masuk daftar ini. Let's Make It Happen 🚀
